@@ -1,9 +1,9 @@
-# Calculator for Acute Rheumatic Fever (Experimental) - Deployment Package
-
 <a id="readme-top"></a>
 <div align="center">
-  <a href="https://github.com/dfoulkesjcu/arf-rhd-calculator"><img src="favicon.ico" alt="ARF Logo" width="80" height="80"></a>
-<div>
+  <a href="https://github.com/dfoulkesjcu/arf-rhd-calculator"><img src="./favicon.ico" alt="ARF Logo" width="80" height="80"></a>
+  <h2>Calculator for Acute Rheumatic Fever (Experimental) - Deployment Package</h2>
+</div>
+
 
 ## Overview
 
