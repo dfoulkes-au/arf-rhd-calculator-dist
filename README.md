@@ -53,7 +53,7 @@ Then in your browser go to http://localhost:8000/index.html
 
 Issues and or pull requests for this deployment project will not be monitored.  
 
-The content of this project is derived by an automated compilation process from the [source code project](https://github.com/github/dfoulkesjcu/arf-rhd-calculator).
+The content of this project is derived by an automated compilation process from the [source code project](https://github.com/dfoulkesjcu/arf-rhd-calculator).
 
 So if you have contributions or suggestions please go to the source project, and follow the "How to Contribute" instructions there.
 
