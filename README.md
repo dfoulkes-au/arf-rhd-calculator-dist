@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 <div align="center">
-  <a href="https://github.com/dfoulkesjcu/arf-rhd-calculator"><img src="./favicon.ico" alt="ARF Logo" width="80" height="80"></a>
+  <a href="https://github.com/dfoulkes-au/arf-rhd-calculator"><img src="./favicon.ico" alt="ARF Logo" width="80" height="80"></a>
   <h2>Calculator for Acute Rheumatic Fever (Experimental) - Deployment Package</h2>
 </div>
 
@@ -15,7 +15,7 @@ This project is a deployment package including html/js/css etc for a browser-bas
 
 To deploy this package simply clone the repo and copy the contents to a web server folder.
 
-The code for this project describes a single page application that can be built using NodeJS, the Vue 3 framework, and Vuetify UI Library.   If you wish to access the code to modify or contribute to the project,  you can find it [here](https://github.com/dfoulkesjcu/arf-rhd-calculator).
+The code for this project describes a single page application that can be built using NodeJS, the Vue 3 framework, and Vuetify UI Library.   If you wish to access the code to modify or contribute to the project,  you can find it [here](https://github.com/dfoulkes-au/arf-rhd-calculator).
 
 If you like this, don't forget to give the project a star! Thanks!
 
@@ -30,7 +30,7 @@ Acute rheumatic fever (ARF) results from the body’s autoimmune response follow
 In order to deploy the ARF Calculator,  first Clone this repository by executing:
 
 ```sh
-git clone https://github.com/dfoulkesjcu/arf-rhd-calculator-dist.git
+git clone https://github.com/dfoulkes-au/arf-rhd-calculator-dist.git
 ```
 
 To deploy the package on the internet, you will need to have access to a web server and have permissions to copy files to the a folder that is served by the web server.
@@ -53,7 +53,7 @@ Then in your browser go to http://localhost:8000/index.html
 
 Issues and or pull requests for this deployment project will not be monitored.  
 
-The content of this project is derived by an automated compilation process from the [source code project](https://github.com/dfoulkesjcu/arf-rhd-calculator).
+The content of this project is derived by an automated compilation process from the [source code project](https://github.com/dfoulkes-au/arf-rhd-calculator).
 
 So if you have contributions or suggestions please go to the source project, and follow the "How to Contribute" instructions there.
 
@@ -74,4 +74,4 @@ Distributed under the MIT License. See [LICENSE.md][license-url] for more inform
 
 [linkedin-df-url]: https://www.linkedin.com/in/daniel-foulkes/
 [linkedin-nardhc-url]: https://www.linkedin.com/company/101721851
-[license-url]: https://github.com/dfoulkesjcu/arf-rhd-calculator/blob/main/LICENSE.md
+[license-url]: https://github.com/dfoulkes-au/arf-rhd-calculator/blob/main/LICENSE.md
