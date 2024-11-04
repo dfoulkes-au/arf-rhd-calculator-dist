@@ -69,7 +69,6 @@ Distributed under the MIT License. See [LICENSE.md][license-url] for more inform
 
 - [Northern Australian Regional Digital Health Collaborative][linkedin-nardhc-url]
 - [Daniel Foulkes][linkedin-df-url]
-- XXXXX
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
